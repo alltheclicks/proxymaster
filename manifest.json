@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Proxy Switcher",
   "version": "1.0",
-  "description": "Chrome ekstenzija za prebacivanje proxyja",
+  "description": "Chrome extension for easier changing of proxy servers",
   "permissions": [
     "proxy",
     "webRequest",

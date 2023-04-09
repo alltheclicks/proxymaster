@@ -1,4 +1,4 @@
-const serverURL = 'https://tvoj-server.com/proxy-lista'; // Zameni sa URL-om tvog servera
+const serverURL = 'https://yourserver.com/proxy-lista'; // change this url with your own
 
 async function fetchProxies() {
   const response = await fetch(serverURL);
